@@ -7,6 +7,7 @@
     - 🎨 Sass / CSS
     - ⚛️ React / Next.js
     - 💚 Node.js
+    - 💾 PostgreSQL / Strapi
     - ☁️ Vercel
 
 - 💼 3.5 years continuous developer and consultant working experience
