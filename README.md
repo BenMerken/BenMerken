@@ -10,7 +10,7 @@
     - 💾 PostgreSQL / Strapi
     - ☁️ Vercel
 
-- 💼 3.5 years continuous developer and consultant working experience
+- 💼 4 years continuous developer and consultant working experience
 
 - 🧩Interested in developing further
     - 👨‍💻Programming
