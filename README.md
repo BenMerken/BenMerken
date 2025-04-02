@@ -23,6 +23,7 @@
 - 📜 (Ancient) history
 - 📚 Reading
 - 🎮Video games
+- 🧶Knitting and crochet
 
 ## Live Projects
 
