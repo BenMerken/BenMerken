@@ -3,19 +3,19 @@
 ### Professional Data
 
 - 🌐 Full Stack Web Developer
-    - 💙 TypeScript / 💛 JavaScript
-    - 🎨 Sass / CSS
-    - ⚛️ React / Next.js
-    - 💚 Node.js
-    - 💾 PostgreSQL / Strapi
-    - ☁️ Vercel
+  - 💙 TypeScript / 💛 JavaScript
+  - 🎨 Sass / CSS
+  - ⚛️ React / Next.js
+  - 💚 Node.js
+  - 💾 PostgreSQL / Strapi
+  - ☁️ Vercel
 
-- 💼 4 years continuous developer and consultant working experience
+- 💼 5 years professional experience as a developer
 
 - 🧩Interested in developing further
-    - 👨‍💻Programming
-    - 🛜 Network Management
-    - 🔋Electronics
+  - 👨‍💻Programming
+  - 🛜 Network Management
+  - 🔋Electronics
 
 ### Hobbies (besides coding 😏)
 
@@ -23,11 +23,6 @@
 - 📜 (Ancient) history
 - 📚 Reading
 - 🎮Video games
-- 🧶Knitting and crochet
-
-## Live Projects
-
-👷 UNDER CONSTRUCTION 🚧
 
 <!--
 **BenMerken/BenMerken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
